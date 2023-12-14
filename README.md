@@ -10,6 +10,7 @@ Sub-Domain         : Deep Learning, Image Classification
 Techniques         : Deep Convolutional Neural Network, ImageNet, VGG16, VGG19, ResNet50
 
 Tools / Libraries:
+
 Languages               : Python
 
 Tools/IDE               : Anaconda Jupyter Notebook
