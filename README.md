@@ -20,7 +20,7 @@ Optimizers              : Adam;
 Loss Function           : categorical_crossentropy
 
 Training Parameters: 
-Batch Size              : 32;
-Number of Epochs        : 30;
-Training Time           : 3 Hours for all three models
+Batch Size              - 32;
+Number of Epochs        - 30;
+Training Time           - 3 Hours for all three models
 
