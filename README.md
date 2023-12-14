@@ -67,3 +67,16 @@ python –version
 
 Press Enter, and it should display the installed Python version.
 Now you have successfully installed Anaconda and accessed the Anaconda Prompt. From here, you can create and manage Python environments, install packages, and run Python scripts.
+
+Python environment for a project related to Pneumonia Detection. 
+Let's break it down:
+1.	conda create -n pneumonia_detection python=3.7: This command creates a new virtual environment named "pneumonia_detection" using Conda, a package manager. It specifies Python version 3.7 for this environment.
+2.	conda activate pneumonia_detection: Activates the virtual environment named "pneumonia_detection." This ensures that any subsequent installations or commands are isolated within this environment.
+3.	pip install ipykernel: Installs the "ipykernel" package using pip, a Python package installer. This package is likely needed for working with Jupyter notebooks.
+4.	python -m ipykernel install --user --name pneumonia_detection --display-name "pneumonia_detection": This registers the virtual environment "pneumonia_detection" as a kernel for Jupyter notebooks. It allows Jupyter to use this environment.
+5.	pip install opencv-python==4.6.0.66: Installs a specific version (4.6.0.66) of the OpenCV library, which is often used for computer vision tasks.
+6.	pip install matplotlib==3.4.3: Installs a specific version (3.4.3) of Matplotlib, a popular plotting library for Python.
+7.	pip install seaborn==0.11.2: Installs a specific version (0.11.2) of Seaborn, a statistical data visualization library based on Matplotlib.
+8.	pip install tensorflow==2.5.0: Installs a specific version (2.5.0) of TensorFlow, a machine learning framework.
+
+
