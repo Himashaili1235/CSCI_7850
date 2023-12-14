@@ -13,7 +13,7 @@ Dataset Details:
 The dataset, sourced from Kaggle, encompasses images categorized into three groups: normal, viral pneumonia, and bacterial pneumonia. Specifically, there are 1990 normal images, 1980 bacterial pneumonia images, and 1343 viral pneumonia images within this dataset. Notably, all these images are in grayscale, representing a monochromatic spectrum without the use of color channels.
 Dataset Link: https://www.kaggle.com/datasets/subhankarsen/novel-covid19-chestxray-repository
 
-Model Parameters:
+Model Parameters-
 Machine Learning Library: Keras;
 Base Model              : VGG16, VGG19, ResNet50;
 Optimizers              : Adam;
