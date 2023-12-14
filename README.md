@@ -80,6 +80,6 @@ Let's break it down:
 8.	pip install tensorflow==2.5.0: Installs a specific version (2.5.0) of TensorFlow, a machine learning framework.
 
 Once all the necessary libraries are installed open Anaconda Promt from start menu and type Jupyter Notebook to run the Python scripts.
-Initially excute the preprocess_dataset.ipnb file and generate new dataset of images for three categories. Eventually, excute the ResNet50.ipnb, vgg_16.ipnb and vgg_19.ipnb files in jupter notebook and Finally obtain the outputs for each cell.
+Initially excute the preprocess_dataset.ipynb file and generate new dataset of images for three categories. Eventually, excute the ResNet50.ipynb, vgg_16.ipynb and vgg_19.ipynb files in jupter notebook and Finally obtain the outputs from each cell.
 
 
