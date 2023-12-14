@@ -79,4 +79,6 @@ Let's break it down:
 7.	pip install seaborn==0.11.2: Installs a specific version (0.11.2) of Seaborn, a statistical data visualization library based on Matplotlib.
 8.	pip install tensorflow==2.5.0: Installs a specific version (2.5.0) of TensorFlow, a machine learning framework.
 
+Once all the necessary libraries are installed open Anaconda Promt from start menu and type Jupyter Notebook to run the Python scripts.
+
 
