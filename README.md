@@ -15,6 +15,9 @@ Dataset Link: https://www.kaggle.com/datasets/subhankarsen/novel-covid19-chestxr
 
 Model Parameters:
 Machine Learning Library: Keras
+
 Base Model              : VGG16, VGG19, ResNet50
+
 Optimizers              : Adam
+
 Loss Function           : categorical_crossentropy
