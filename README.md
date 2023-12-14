@@ -14,10 +14,8 @@ The dataset, sourced from Kaggle, encompasses images categorized into three grou
 Dataset Link: https://www.kaggle.com/datasets/subhankarsen/novel-covid19-chestxray-repository
 
 Model Parameters:
+
 Machine Learning Library: Keras
-
 Base Model              : VGG16, VGG19, ResNet50
-
 Optimizers              : Adam
-
 Loss Function           : categorical_crossentropy
